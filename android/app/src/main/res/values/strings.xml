@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Please update your facebook config in this strings-->
+    <string name="app_name">Reserved4you</string>
+    <string name="facebook_app_id">658342665398192</string>
+    <string name="fb_login_protocol_scheme">fb658342665398192</string>
+    <string name="google_map_key">AIzaSyArMQUYVZdZwTxj3Jc8arW7nGNmIp_9ktU</string>
+    <!--3737227266396411 old app-->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+</resources>

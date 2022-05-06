@@ -1,0 +1,11 @@
+{
+  "provider": "apple_pay",
+  "data": {
+    "merchantIdentifier": "merchant.reserved4you",
+    "displayName": "reserved4you",
+    "merchantCapabilities": ["3DS", "debit", "credit"],
+    "supportedNetworks": ["amex", "visa", "discover", "masterCard","girocard","vPay","maestro","cartesBancaires","chinaUnionPay","electron","jcb","mada","maestro","mir","privateLabel"],
+    "countryCode": "DE",
+    "currencyCode": "EUR"
+  }
+}
